@@ -1,0 +1,5 @@
+{
+  "name": "Bhagat Thumbnail Generator",
+  "description": "An AI-powered application that generates ultra-realistic YouTube thumbnails from a text description using Google's Gemini API.",
+  "requestFramePermissions": []
+}
